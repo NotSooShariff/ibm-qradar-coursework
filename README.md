@@ -1,6 +1,6 @@
 # Coursework Repository
 
-Welcome to my coursework repository! This repository serves as a platform for submitting my coursework assignments while also offering an opportunity for anyone interested in exploring the world of cybersecurity tools and techniques. Feel free to check out the content, as it may provide valuable insights into various cybersecurity tools and methodologies commonly used in the field.
+This repository is for submitting my coursework assignments while also offering an opportunity for anyone interested in exploring the world of cybersecurity tools and techniques. Feel free to check out the content, as it may provide valuable insights into various cybersecurity tools and methodologies commonly used in the field.
 
 ## 📃 Course Overview
 In this course, I've been learning about various cybersecurity tools and techniques, with a focus on practical applications. The coursework has covered a wide range of topics, including but not limited to web penetration testing, systems hacking, and the usage of popular tools such as Nmap, Wireshark, Burp Suite, Mimikatz, and many more.
